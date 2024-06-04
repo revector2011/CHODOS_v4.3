@@ -1,0 +1,5 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+mbed-studio-cache = /home/studio/mbed-studio-data/library-cache/os.mbed.com/users/erik_kedo/code/NewTextLCD
+default = http://mbed.org/users/erik_kedo/code/NewTextLCD/

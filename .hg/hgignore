@@ -1,0 +1,33 @@
+syntax: glob
+.hg
+.git
+.svn
+.CVS
+.cvs
+*.orig
+.build
+.export
+.msub
+.meta
+.ctags*
+*.uvproj
+*.uvopt
+*.project
+*.cproject
+*.launch
+*.ewp
+*.eww
+Makefile
+Debug
+*.htm
+*.settings
+mbed_settings.py
+*.py[cod]
+# subrepo ignores
+_24LCXXX
+_keypad
+_NewTextLCD
+_RTC-DS1307
+MAX31855
+ds3231
+hello
